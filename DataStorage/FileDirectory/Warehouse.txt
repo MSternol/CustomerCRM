@@ -1,0 +1,6 @@
+ID:0
+Name:Pomidor
+Category:Warzywa
+Quantity:1000 szt
+Price:5.70
+

@@ -1,0 +1,26 @@
+01.10.2023 18:32:29 [SavingService.SaveAdmin]: SUCCESS: Zapisano dane administratora w pliku C:\Users\Mariu\OneDrive\Pulpit\AppCustomerCRM\DataStorage\FileDirectory\Administrators.txt
+01.10.2023 18:32:29 [Registration.Register]: SUCCESS: Zarejestrowano administratora o nazwie użytkownika: Admin10
+01.10.2023 18:42:56 [SavingService.SaveAdmin]: SUCCESS: Zapisano dane administratora w pliku C:\Users\Mariu\OneDrive\Pulpit\AppCustomerCRM\DataStorage\FileDirectory\Administrators.txt
+01.10.2023 18:42:56 [Registration.Register]: SUCCESS: Zarejestrowano administratora o nazwie użytkownika: Admin10
+01.10.2023 18:53:23 [SavingService.SaveSupplier]: SUCCESS: Zapisane dane dostawcy w pliku C:\Users\Mariu\OneDrive\Pulpit\AppCustomerCRM\DataStorage\FileDirectory\Supplier.txt
+01.10.2023 18:53:23 [Registration.Register]: SUCCESS: Zarejestrowano dostawcę o nazwie użytkownika: Dostawca10
+01.10.2023 20:04:21 [ViewChangePersonal.ViewChangePersonalData]: SUCCESS: Zmiana danych personalnych zakończona pomyślnie.
+01.10.2023 20:04:54 [ViewChangePersonal.ViewChangePersonalData]: SUCCESS: Zmiana danych personalnych zakończona pomyślnie.
+01.10.2023 20:13:03 [ViewChangePersonal.ViewChangePersonalData]: SUCCESS: Zmiana danych personalnych zakończona pomyślnie.
+01.10.2023 20:51:59 [SavingService.SaveCustomer]: SUCCESS: Zapisane dane klienta w pliku C:\Users\Mariu\OneDrive\Pulpit\AppCustomerCRM\DataStorage\FileDirectory\Customers.txt
+01.10.2023 20:51:59 [ViewChangePersonal.ViewChangePersonalData]: SUCCESS: Zmiana danych personalnych zakończona pomyślnie.
+01.10.2023 20:52:09 [ViewChangePersonal.ViewChangePersonalData]: SUCCESS: Zmiana danych personalnych zakończona pomyślnie.
+01.10.2023 22:16:34 [LoginSystem.Logging]: SUCCESS: Zalogowano jako Klient o nazwie użytkownika: Klient10
+01.10.2023 22:22:17 [LoginSystem.Logging]: SUCCESS: Zalogowano jako Klient o nazwie użytkownika: Klient10
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt
+06.10.2023 18:04:57 [SavingService.SaveToFileWarehouse]: SUCCESS: Zapisano dane magazynu w pliku C:\Users\Mariu\OneDrive\Pulpit\CustomerCRM\CustomerCRM\DataStorage\FileDirectory\Warehouse.txt

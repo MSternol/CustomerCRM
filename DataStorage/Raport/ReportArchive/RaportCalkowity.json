@@ -1,0 +1,22 @@
+{
+  "Administratorzy": [
+    "Admin10|Vermaster10!|Mariusz|Sternol|Admin10@wp.pl|Administrator|3|"
+  ],
+  "Klienci": [
+    "Klient10|Vermaster10!|Mariusz|Nowak|Polska|Klient|Katowice|przykładowa 44/1|12-002|987654321|Nowak@wp.pl|0fa2243f|"
+  ],
+  "Dostawcy": [
+    "Dostawca10|Vermaster10!|Mariusz|Sternol|509479265|8cfb4070|2|Programist|Dostawca10@wp.pl|"
+  ],
+  "Magazyny": [
+    "ID:0",
+    "Name:Pomidor",
+    "Category:Warzywa",
+    "Quantity:1000 szt",
+    "Price:5.70",
+    ""
+  ],
+  "KoszykiZakupowe": [
+    "1|Pomidor|Warzywa|200|5,70"
+  ]
+}
